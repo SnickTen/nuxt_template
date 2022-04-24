@@ -1,7 +1,7 @@
 // Global page headers (https://go.nuxtjs.dev/config-head)
 
 module.exports = {
-  title: 'Founder power ventures',
+  title: 'Your title',
   htmlAttrs: {
     prefix: 'og:http://ogp.me/ns#',
     lang: 'ru'
